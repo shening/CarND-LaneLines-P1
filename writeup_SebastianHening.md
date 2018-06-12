@@ -21,9 +21,9 @@ The goals / steps of this project are the following:
 
 [image3]: ./report_images/edge.png "Edges"
 
-[image4]: ./report_images/edges_mask.png "Edges with mask applied"
+[image4]: ./report_images/edge_mask.png "Edges with mask applied"
 
-[image5]: ./report_images/edges_hugh_transform.jpg "Hugh transform line detection on the edges detected"
+[image5]: ./report_images/edge_hugh_transform.jpg "Hugh transform line detection on the edges detected"
 
 [image6]: ./report_images/overlaycolor.png "Hugh lines averages lines re-drawn using average slope and average centers of left and right lane"
 
