@@ -23,9 +23,9 @@ The goals / steps of this project are the following:
 
 [image4]: ./report_images/edge_mask.png "Edges with mask applied"
 
-[image5]: ./report_images/edge_hugh_transform.jpg "Hugh transform line detection on the edges detected"
 
-[image6]: ./report_images/overlaycolor.png "Hugh lines averages lines re-drawn using average slope and average centers of left and right lane"
+
+[image5]: ./report_images/overlaycolor.png "Hugh lines averages lines re-drawn using average slope and average centers of left and right lane"
 
 
 ---
@@ -49,8 +49,6 @@ If you'd like to include images to show how the pipeline works, here is how to i
 ![alt text][image4]
 
 ![alt text][image5]
-
-![alt text][image6]
 
 ### 2. Identify potential shortcomings with your current pipeline
 
